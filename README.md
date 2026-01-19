@@ -41,9 +41,9 @@ Berdasarkan perancangan EER Diagram, database ini terdiri dari 4 tabel utama:
 - `/Images`: Berisi semua bukti screenshot dan aset gambar.
 
 ### 👥 Anggota Kelompok
-- [Nama Anda] - [NIM]
-- [Nama Rekan 1] - [NIM]
-- [Nama Rekan 2] - [NIM]
+- [Muhammad Irsyad] - [240103170]
+- [Muhammad Rijal Febriyantono] - [240103168]
+- [Billy Rafaelandri] - [240103157]
 
 ---
 **Dosen Pengampu:** Ridwan Dwi Irawan, S.Kom, M.Kom  
